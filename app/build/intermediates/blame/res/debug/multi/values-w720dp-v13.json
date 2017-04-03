@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m6-assignment-gate-a-skeleton/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/anuj/.android/build-cache/016243e48d827b8723e7fbd486a12a27a0fc755d/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    }
+]

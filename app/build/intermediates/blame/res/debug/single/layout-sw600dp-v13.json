@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m6-assignment-gate-a-skeleton/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/anuj/.android/build-cache/50db62234c5c474f3aa17fc9a487d78ab5dba60f/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m6-assignment-gate-a-skeleton/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/layout_snackbar.xml",
+        "source": "/home/anuj/.android/build-cache/7eda08e878005a1d7edf31e933a379342781efc5/output/res/layout-sw600dp/layout_snackbar.xml"
+    }
+]
